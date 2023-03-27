@@ -65,7 +65,9 @@ body {
 .apresentacao__conteudo__titulo__texto{
     font-size: 22px;
     font-family: var(--fontePrincipal);
+    text-align: left;
 }
+
 
 .apresentacao__links{
     display: flex;
