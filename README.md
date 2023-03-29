@@ -2,14 +2,6 @@ Meu Portifólio
 
 Este é o meu portfólio, criado com HTML e CSS. Ele inclui informações sobre mim, minhas habilidades e projetos anteriores.
 
-visão geral
-O portfólio é composto por várias seções, incluindo:
-
-Uma seção de introdução com uma breve descrição sobre mim
-Uma seção de habilidades, com uma lista das minhas principais competências
-Uma seção de projetos, com informações sobre os projetos que já realizaram
-Uma seção de contato, com informações para me alcançar
-
 demonstração
 
 Confira uma demonstração do meu portfólio em https://edneitrabach.vercel.app/
