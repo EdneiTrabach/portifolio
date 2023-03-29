@@ -21,7 +21,6 @@ HTML
 CSS
 
 Contribuição 
-
 Este é um projeto pessoal, mas sinta-se à vontade para abrir uma edição caso tenha alguma sugestão ou melhoria a ser feita.
 
 autor
