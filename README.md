@@ -2,7 +2,7 @@ Meu Portifólio
 
 Este é o meu portfólio, criado com HTML e CSS. Ele inclui informações sobre mim, minhas habilidades e projetos anteriores.
 
-demonstração
+Demonstração
 
 Confira uma demonstração do meu portfólio em https://edneitrabach.vercel.app/
 
@@ -20,7 +20,7 @@ Este portfólio foi criado usando as seguintes tecnologias:
 HTML
 CSS
 
-contribuição
+Contribuição 
 
 Este é um projeto pessoal, mas sinta-se à vontade para abrir uma edição caso tenha alguma sugestão ou melhoria a ser feita.
 
