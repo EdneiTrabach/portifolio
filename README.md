@@ -4,9 +4,9 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Este é o meu portfólio, criado com HTML e CSS. Ele inclui informações sobre mim, minhas habilidades e projetos anteriores.
+Este é o meu portfólio, criado com HTML, CSS e JavaScript. Ele inclui informações sobre mim, minhas habilidades e projetos anteriores.
 
-Visão geral
+<p> Visão geral </p>
 
 O portfólio é composto por várias seções, incluindo:
 
@@ -16,11 +16,11 @@ Uma seção de habilidades, com uma lista das minhas principais competências
 Uma seção de projetos, com informações sobre os projetos que já realizaram
 Uma seção de contato, com informações para me alcançar
 
-Demonstração
+<p> Demonstração </p>
 
-Confira uma demonstração do meu portfólio em https://edneitrabach.vercel.app/
+Confira uma demonstração do meu portfólio em <a> https://edneitrabach.vercel.app/ </a>
 
-Como usar
+<p> Como usar: </p>
 
 Se você deseja rodar este portfólio localmente, siga os seguintes passos:
 
@@ -28,12 +28,13 @@ Clone este repositório em seu computador.
 Abra o arquivo index.htmlem seu navegador.
 Explore o portfólio e veja as diferentes seções.
 
-Tecnologias Utilizadas
+<p> Tecnologias Utilizadas? </p>
+<ul> 
+    <li>HTML</li>
+    <li> CSS </li>
+    <li> JavaScript </li>
 
-Este portfólio foi criado usando as seguintes tecnologias:
-HTML
-CSS
-JavaScript
+</ul>
 
 Contribuição
 
