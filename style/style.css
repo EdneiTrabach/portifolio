@@ -16,7 +16,6 @@
 }
 
 body {
-    /* height: 100vh; */
     box-sizing: border-box;
     background-color: var(--corPrincipal);
     color: var(--segundaCor);
@@ -122,6 +121,8 @@ body {
     font-weight: 400;
     color: var(--corPrincipal);
 }
+
+
 
 @media(max-width: 1200px ){
 
