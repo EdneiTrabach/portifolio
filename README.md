@@ -1,8 +1,12 @@
-Meu Portifólio
+<h1 align="center">Meu Portifólio</h1>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 Este é o meu portfólio, criado com HTML e CSS. Ele inclui informações sobre mim, minhas habilidades e projetos anteriores.
 
-visão geral
+Visão geral
 
 O portfólio é composto por várias seções, incluindo:
 
@@ -29,8 +33,9 @@ Tecnologias Utilizadas
 Este portfólio foi criado usando as seguintes tecnologias:
 HTML
 CSS
+JavaScript
 
-Contribuição 
+Contribuição
 
 Este é um projeto pessoal, mas sinta-se à vontade para abrir uma edição caso tenha alguma sugestão ou melhoria a ser feita.
 
