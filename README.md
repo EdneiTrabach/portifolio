@@ -4,9 +4,11 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Este é o meu portfólio, criado com HTML, CSS e JavaScript. Ele inclui informações sobre mim, minhas habilidades e projetos anteriores.
+Este é o meu portfólio, criado com HTML, CSS e JavaScript. 
 
-<p> Visão geral </p>
+Nele inclui informações sobre mim, minhas habilidades e projetos anteriores.
+
+**Visão geral**
 
 O portfólio é composto por várias seções, incluindo:
 
@@ -16,11 +18,11 @@ Uma seção de habilidades, com uma lista das minhas principais competências
 Uma seção de projetos, com informações sobre os projetos que já realizaram
 Uma seção de contato, com informações para me alcançar
 
-<p> Demonstração </p>
+**Demonstração**
 
-Confira uma demonstração do meu portfólio em <a> https://edneitrabach.vercel.app/ </a>
+Confira uma demonstração do meu portfólio em [https://edneitrabach.vercel.app/](url)
 
-<p> Como usar: </p>
+**Como usar?**
 
 Se você deseja rodar este portfólio localmente, siga os seguintes passos:
 
@@ -28,19 +30,22 @@ Clone este repositório em seu computador.
 Abra o arquivo index.htmlem seu navegador.
 Explore o portfólio e veja as diferentes seções.
 
-<p> Tecnologias Utilizadas? </p>
-<ul> 
-    <li>HTML</li>
-    <li> CSS </li>
-    <li> JavaScript </li>
+**Tecnologias Utilizadas?**
+HTML
+CSS
+JvaScript
 
-</ul>
-
-Contribuição
+**Contribuição **
 
 Este é um projeto pessoal, mas sinta-se à vontade para abrir uma edição caso tenha alguma sugestão ou melhoria a ser feita.
 
-autor
-Ednei Antonio Trabach
-E-mail: edneitrabach@hotmail.com
-LinkedIn: https://www.linkedin.com/in/edneitrabach/
+**Autor**
+
+***Ednei Antonio Trabach***
+
+***E-mail: edneitrabach@hotmail.com***
+
+***LinkedIn: https://www.linkedin.com/in/edneitrabach/***
+
+
+
