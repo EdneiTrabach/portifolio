@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family= Krona+One & family= Montserrat:wght@400;600 & display =swap');
+
+:root{
+    --corPrincipal: #000000;
+    --segundaCor: #F6F6F6;
+    --terceriraCor: #F5B400;
+    --corHover: #5c5c39;
+    --corBorda: rgba(100, 131, 49, 0.938);
+    --fontePrincipal: 'Krona One', sans-serif;
+    --fonteSecundaria:'Montserrat', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--corPrincipal);
+    background: linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 26%, rgba(236,144,21,1) 100%);
+    color: var(--segundaCor);
+}
+
+.cabecalho{
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho__menu{
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu__link{
+    font-family: var(--fontePrincipal);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--terceriraCor);
+    text-decoration: none;
+}
+
+.titulo__texto {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    font-size: 20px;
+}
+
+.paragrafo {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.texto__conteudo__link {
+    padding: 0.6rem;
+    font-family: var(--fonteSecundaria);
+    font-size: 1rem;
+    color: rgb(238, 199, 130) ;
+    display: flex;
+    justify-content: center;
+}
+
+.texto__conteudo {
+    padding: 0.6rem;
+    font-family: var(--fonteSecundaria);
+    text-decoration: none;
+    font-size: 1rem;
+    color: rgb(238, 199, 130) ;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.rodape{
+    background-color: var(--terceriraCor);
+    padding: 24px;
+    font-family: var(--fontePrincipal);
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--corPrincipal);
+}
+
+
+
+@media(max-width: 1200px ){
+
+    .cabecalho{
+        padding: 10%;
+    }
+
+    .cabecalho__menu{
+        justify-content: center;
+    }
+
+    .apresentacao{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo{
+        width: auto;
+    }
+}

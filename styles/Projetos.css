@@ -15,7 +15,8 @@
 
 body {
     box-sizing: border-box;
-    background-color: var(--corPrincipal);
+    background: rgb(0,0,0);
+    background: linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 26%, rgba(236,144,21,1) 100%);
     color: var(--segundaCor);
 }
 
@@ -26,6 +27,7 @@ body {
 .cabecalho__menu {
     font-size: 2em;
     text-align: center;
+    font-family: var(--fontePrincipal);
 }
 
 .cabecalho__menu__link {
@@ -36,15 +38,58 @@ body {
     padding: 10px;
 }
 
+.projetos {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+}
 
+.cabecalho__titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 24px;
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--terceriraCor);
+    padding: 10px;
+    font-family: var(--fontePrincipal);
+}
 
+.titulo__texto {
+    text-align: center;
+    font-size: 20px;
+    padding: 0.3rem;
+    font-family: var(--fonteSecundaria);
+}
 
+.strong{
+    font-size: 1.5rem;
+    color: var(--terceriraCor);
+    margin: 0 4px;
+}
 
+.link {
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 21px;
+    color: rgb(255, 68, 0);
+    justify-content: center;
 
+}
+.imagem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.imagens {
+    border-radius: 20px;
 
-
-
+}
 
 .rodape{
     background-color: var(--terceriraCor);
@@ -54,15 +99,27 @@ body {
     font-size: 1.5rem;
     font-weight: 400;
     color: var(--corPrincipal);
+    margin-top: 20px;
 }
 
 @media(max-width: 1200px ){
 
     .cabecalho{
-        width: 100vh;
+        width: auto;
         text-align: center;
         padding: 1em;
         align-items: center;
+        font-size: 1rem;
+    }
+
+    .strong {
+        font-size: 1rem;
+    }
+
+    .titulo__texto {
+        font-size: 0.9rem;
+        padding: 0.3rem;
+        font-family: var(--fonteSecundaria);
     }
 
     .cabecalho__menu {
@@ -71,5 +128,9 @@ body {
 
     .rodape{
         width: auto;
+    }
+
+    .imagens {
+        width: 20rem;
     }
 }

@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family= Krona+One & family= Montserrat:wght@400;600 & display =swap');
 @import url("../styles/Projetos.css");
+@import url("../styles/certificados.css");
+
 
 :root{
     --corPrincipal: #000000;
@@ -19,6 +21,7 @@
 body {
     box-sizing: border-box;
     background-color: var(--corPrincipal);
+    background: linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 26%, rgba(236,144,21,1) 100%);
     color: var(--segundaCor);
 }
 
@@ -68,6 +71,7 @@ body {
 
 .destaque-titulo{
     color: var(--terceriraCor);
+    font-size: 2rem;
 }
 
 .apresentacao__conteudo__titulo__texto{
@@ -75,7 +79,6 @@ body {
     font-family: var(--fonteSecundaria);
     text-align: justify;
 }
-
 
 .apresentacao__links{
     display: flex;
