@@ -117,13 +117,17 @@ body {
     }
 
     .titulo__texto {
-        font-size: 0.9rem;
+        font-size: 1rem;
         padding: 0.3rem;
         font-family: var(--fonteSecundaria);
     }
 
     .cabecalho__menu {
-        text-align: center;
+        flex-direction: column;
+    }
+
+    .cabecalho__menu__link {
+        width: auto;
     }
 
     .rodape{
@@ -134,3 +138,5 @@ body {
         width: 20rem;
     }
 }
+
+

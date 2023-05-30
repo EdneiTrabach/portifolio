@@ -139,11 +139,25 @@ body {
 @media(max-width: 1200px ){
 
     .cabecalho{
-        padding: 10%;
+        padding: 1%;
+        width: 100vh;
+
     }
 
     .cabecalho__menu{
+        flex-direction: column;
         justify-content: center;
+        gap: 10px;
+        width: auto;
+        font-size: 2rem;
+    }
+
+    .apresentacao__imagem {
+        width: 90%;
+    }
+
+    .cabecalho__menu__link {
+        width: auto;
     }
 
     .apresentacao{
