@@ -41,7 +41,7 @@ body {
 .projetos {
     display: flex;
     flex-direction: column;
-    padding: 0.5rem;
+    padding: 20px 30%;
 }
 
 .cabecalho__titulo{
